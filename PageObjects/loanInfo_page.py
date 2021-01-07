@@ -2,7 +2,7 @@
 # @Author  : zgh
 # @Email   : 849080458@qq.com
 # @Software: PyCharm
-from python_WEB_Framework.PageObjects.BasePage import BasePage
+from PageObjects.BasePage import BasePage
 
 class LoanInfo_Page(BasePage):
 

@@ -3,13 +3,13 @@
 # @Email   : 849080458@qq.com
 # @Software: PyCharm
 import unittest
-from python_WEB_Framework.PageObjects.login_page import LoginPage
-from python_WEB_Framework.PageObjects.index_page import IndexPage
-from python_WEB_Framework.TestDatas.login_testdata import *
-from python_WEB_Framework.TestDatas.CommonData import *
+from PageObjects.login_page import LoginPage
+from PageObjects.index_page import IndexPage
+from TestDatas.login_testdata import *
+from TestDatas.CommonData import *
 from selenium import webdriver
 import time
-from python_WEB_Framework.Common import myLogger2
+from Common import myLogger2
 import logging
 import pytest
 class Test_Login:

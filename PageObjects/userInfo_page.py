@@ -3,7 +3,7 @@
 # @Email   : 849080458@qq.com
 # @Software: PyCharm
 import time
-from python_WEB_Framework.PageObjects.BasePage import BasePage
+from PageObjects.BasePage import BasePage
 
 
 class UserInfo_Page(BasePage):

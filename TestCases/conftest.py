@@ -3,8 +3,8 @@
 # @Email   : 849080458@qq.com
 # @Software: PyCharm
 import pytest
-from python_WEB_Framework.PageObjects.login_page import LoginPage
-from python_WEB_Framework.TestDatas.CommonData import *
+from PageObjects.login_page import LoginPage
+from TestDatas.CommonData import *
 from selenium import webdriver
 
 @pytest.fixture

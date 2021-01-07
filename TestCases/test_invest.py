@@ -2,10 +2,10 @@
 # @Author  : zgh
 # @Email   : 849080458@qq.com
 # @Software: PyCharm
-from python_WEB_Framework.PageObjects.index_page import IndexPage
-from python_WEB_Framework.PageObjects.loanInfo_page import LoanInfo_Page
-from python_WEB_Framework.PageObjects.userInfo_page import UserInfo_Page
-from python_WEB_Framework.TestDatas.invest_testdata import *
+from PageObjects.index_page import IndexPage
+from PageObjects.loanInfo_page import LoanInfo_Page
+from PageObjects.userInfo_page import UserInfo_Page
+from TestDatas.invest_testdata import *
 import pytest
 
 @pytest.mark.usefixtures("init_env")

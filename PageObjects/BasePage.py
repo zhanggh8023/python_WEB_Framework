@@ -5,8 +5,8 @@
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from python_WEB_Framework.Common.dir_config import *
-from python_WEB_Framework.Common import myLogger2
+from Common.dir_config import *
+from Common import myLogger2
 import logging
 import time
 

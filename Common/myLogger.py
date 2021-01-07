@@ -4,7 +4,7 @@
 # @Software: PyCharm
 import logging
 import logging.handlers as HD
-from python_WEB_Framework.Common import dir_config
+from Common import dir_config
 import time
 
 class MyLogger:
