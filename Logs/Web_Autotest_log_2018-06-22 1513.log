@@ -1,0 +1,9 @@
+ Fri, 22 Jun 2018 15:13:27  INFO test_login.py test_1_login_success [ line:23 ] ========开始执行测试用例：登陆成功用例=========
+ Fri, 22 Jun 2018 15:13:30  INFO BasePage.py find_element [ line:42 ] 当前元素定位类型：xpath，当前查找的元素为：//*[@name='phone']
+ Fri, 22 Jun 2018 15:13:30  INFO BasePage.py wait_eleVisible [ line:29 ] wait element visible start time：1529651610.5378737，end time：1529651610.5738757,total wait times is: 0.03600192070007324
+ Fri, 22 Jun 2018 15:13:30  INFO BasePage.py find_element [ line:42 ] 当前元素定位类型：xpath，当前查找的元素为：//*[@name='password']
+ Fri, 22 Jun 2018 15:13:30  INFO BasePage.py wait_eleVisible [ line:29 ] wait element visible start time：1529651610.6958828，end time：1529651610.7318847,total wait times is: 0.03600192070007324
+ Fri, 22 Jun 2018 15:13:30  INFO BasePage.py find_element [ line:42 ] 当前元素定位类型：xpath，当前查找的元素为：//button
+ Fri, 22 Jun 2018 15:13:30  INFO BasePage.py wait_eleVisible [ line:29 ] wait element visible start time：1529651610.8248901，end time：1529651610.8598921,total wait times is: 0.03500199317932129
+ Fri, 22 Jun 2018 15:13:52  INFO BasePage.py find_element [ line:42 ] 当前元素定位类型：xpath，当前查找的元素为：//a[@href="/Member/index.html"]
+ Fri, 22 Jun 2018 15:13:52  INFO BasePage.py wait_eleVisible [ line:29 ] wait element visible start time：1529651632.3021183，end time：1529651632.3771229,total wait times is: 0.07500457763671875
